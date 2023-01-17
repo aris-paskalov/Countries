@@ -1569,6 +1569,25 @@
       "hu"
     ]
   },
+  "IC": {
+    "name": "Canary Islands",
+    "native": "Canary Islands",
+    "phone": [
+      34
+    ],
+    "continent": "AF",
+    "capital": "Las Palmas de Gran Canaria",
+    "currency": [
+      "EUR"
+    ],
+    "languages": [
+      "es",
+      "eu",
+      "ca",
+      "gl",
+      "oc"
+    ]
+  },
   "ID": {
     "name": "Indonesia",
     "native": "Indonesia",
